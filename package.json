@@ -1,0 +1,16 @@
+{
+  "name": "twittermodel",
+  "version": "1.0.0",
+  "description": "TwitterModel . This is a model of twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "twittermodel",
+    "model"
+  ],
+  "author": "NoraizAmeen",
+  "license": "ISC"
+}
